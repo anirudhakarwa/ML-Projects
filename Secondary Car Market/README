@@ -1,1 +1,17 @@
 
+#Project Description
+
+#Background
+The secondary car market is a booming sector. In this context, it’s referring to the market for cars outside of buying directly from 
+manufacturers or officially sanctioned distributors.
+
+Examples would include used-car dealerships, listings sites, sales by owner, etc.
+
+However, one of the major problems in this market is the challenge of valuing cars appropriately. No one wants to buy a lemon. As a result,
+companies like Carfax, Carmax, and Autocheck have built models for fair valuation.
+
+In this challenge, we’ll be creating a rudimentary version of a car pricing model. We’ll be using price data scraped from 300,000 online 
+price listings to train a model and determine the main drivers behind price.
+
+#Objectives 
+Train a model to predict the price of a car based on the available listings data. 
