@@ -14,4 +14,5 @@ In this challenge, we’ll be creating a rudimentary version of a car pricing mo
 price listings to train a model and determine the main drivers behind price.
 
 #Objectives 
+Learn to detect the outliers, do some data cleaning and feature engineering.
 Train a model to predict the price of a car based on the available listings data. 
