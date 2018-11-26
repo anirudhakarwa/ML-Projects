@@ -6,10 +6,16 @@ Not all projects have a complete end to end solution/analysis with each step in 
 * Learn data cleaning and feature engineering
 * Learn to draw inferences from exploratory data analysis/plots.
 
-### 1. Secondary Car Market - Supervised Regression ###
+### Secondary Car Market - Supervised Regression ###
 * Supervised Model
 * Regression Type
 * Data cleaning and feature engineering try
 * Data preprocessing (outlier detection)
 * No data normalization
+
+
+### Millenial Market Research - Unsupervised Clustering ###
+* Unsupervised model
+* Clustering Type
+* Principal Component Analysis (PCA)
 
