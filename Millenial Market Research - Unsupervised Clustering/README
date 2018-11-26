@@ -1,22 +1,31 @@
+**My Personal goal is to get some hands on experince on PCA and see how we can use it using python.
+
 Background
 
-We are an e-commerce clothing brand that wishes to break into a new market. We’ve collected data from a sample of potential customers from 
-that market. To maximize our chance of success, we will create 3 different customer segments and produce tailored marketing campaigns for 
-each of them.
+1. We are an e-commerce clothing brand that wishes to break into a new market. We’ve collected data from a sample of potential customers from 
+that market. To maximize our chance of success, we will create 3 different customer segments and produce tailored marketing campaigns 
+for each of them.
 
-To create our customer segments, we’d like to create clusters based on demographics attributes and affinity scores toward specific interests.
+2. To create our customer segments, we’d like to create clusters based on demographics attributes and affinity scores toward specific 
+interests.
 
-We’ve also collected behavioral data on spending patterns. We wish to only target potential customers who are willing to spend on clothing and more willing to spend money online.
+3, We’ve also collected behavioral data on spending patterns. We wish to only target potential customers who are willing to spend on 
+clothing and more willing to spend money online.
+
 
 Objective
 
-First, keep in mind that our target audience will only include people who score greater than 5.0 on both “Clothing Spending” AND “Internet Spending”.
+1. First, keep in mind that our target audience will only include people who score greater than 5.0 on both “Clothing Spending” AND 
+“Internet Spending”.
 
-We are worried that we’ll run into dataset size problems if we create our clusters on all of the demographics and interest features. Please perform Principal Component Analysis to see if we can capture at least 80% of the variance in our dataset with fewer input features for our clustering model.
+2. We are worried that we’ll run into dataset size problems if we create our clusters on all of the demographics and interest features. 
+Please perform Principal Component Analysis to see if we can capture at least 80% of the variance in our dataset with fewer input 
+features for our clustering model.
 
-Train a clustering model that outputs 3 clusters based on demographic and interest features for our target audience.
+3. Train a clustering model that outputs 3 clusters based on demographic and interest features for our target audience.
 
-Now we need to package our work together so that we can apply our clusters to future marketing campaigns. Write a function with the following specifications:
+4. Now we need to package our work together so that we can apply our clusters to future marketing campaigns. Write a function with the 
+following specifications:
 
 Four inputs:
 •A raw dataset with the same structure as “millennial_market_research.csv”
@@ -30,6 +39,4 @@ Four inputs:
 •Clothing Spending
 •Internet Spending
 •Cluster (from the model)
-
-**My Personal goal is to get some hands on experince on PCA and see how we can use it using python.
 
