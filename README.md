@@ -1,12 +1,12 @@
-# ML-Projects
-General ML Projects for Practice/Hands On/Fun!!!
+## ML-Projects ##
+### General ML Projects for Practice/Hands On/Fun!!! ###
 
 Not all projects have a complete end to end solution with step in detail. For example, a project is aimed at doing just one of the following
 * Throw everything at a model and see the output (no data preprocessing). 
 * Learn data cleaning and feature engineering
 * Learn to draw inferences from exploratory data analysis/plots.
 
-1. Secondary Car Market - Supervised Regression
+### 1. Secondary Car Market - Supervised Regression ###
 * Supervised Model
 * Regression Type
 * Data cleaning and feature engineering try
